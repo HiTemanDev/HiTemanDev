@@ -5,7 +5,7 @@ HaiTeman adalah chatbot berbasis audio dan visualisasi data yang dikembangkan un
 ## 📌 Tujuan Proyek
 
 - Meningkatkan kesadaran diri terhadap emosi melalui pendekatan ACT.
-- Menyediakan akses awal terhadap dukungan emosional berbasis teknologi..
+- Menyediakan akses awal terhadap dukungan emosional berbasis teknologi.
 - Menghadirkan ruang aman digital yang menyuarakan kepedulian, bukan sekadar membalas pesan.
 
 ---
