@@ -30,6 +30,17 @@ cd haiteman
 
 ## 🧰 Teknologi yang Digunakan
  - Python 3.x
+ - Transformers (Hugging Face) (versi 4.44.2)
+ - Datasets (Hugging Face) (versi 2.20.0)
+ - TensorFlow
+ - Scikit-learn (versi 1.5.1)
+ - Pandas (versi 2.2.2)
+ - NumPy (versi 1.26.4)
+ - Matplotlib (versi 3.9.2) dan Seaborn (versi 0.13.2)
+ - WordCloud (versi 1.9.3)
+ - MLflow (versi 2.22.0)
+ - Accelerate (versi 0.33.0)
+ - Deep Translator (versi 1.11.4)
 
 ## 🧪 Cara Kerja Singkat
 1. Pengguna mengetik curhatan atau isi hati.
@@ -41,6 +52,11 @@ cd haiteman
 Pull request sangat disambut! Untuk perubahan besar, mohon buka issue terlebih dahulu untuk didiskusikan.
 
 ## 👤 Tim Pengembang
+- A179YBF088 – Azam Azri Ahmad – Universitas Ahmad Dahlan
+- A179XBF200 – Hanna Febriani Sutarman – Universitas Ahmad Dahlan  
+- A012XBF218 – Igga Febrian Virgiani – Universitas Telkom  
+- A299YBM458 – Sidqi Amanullah – Universitas Pendidikan Indonesia
+
 
 ## 📬 Kontak
 📧 Email: 
