@@ -12,7 +12,7 @@ HaiTeman adalah chatbot berbasis audio dan visualisasi data yang dikembangkan un
 
 ## 📷 Fitur Utama
 
-- Klasifikasi emosi pengguna berdasarkan input teks.
+- Klasifikasi emosi pengguna berdasarkan klasifikasi emosi berbasis teks dalam bahasa Indonesia menggunakan pendekatan hybrid yang menggabungkan model DistilBERT pre-trained dengan fitur berbasis TF-IDF dan model Logistic Regression dari scikit-learn untuk mengidentifikasi empat kelas emosi: happy, sadness, fear, dan stress.
 - Respons empatik berbasis LLM (Large Language Model).
 - Pesan terapi dalam bentuk suara menggunakan TTS (Text-to-Speech).
 - Antarmuka chatbot berbasis aplikasi mobile menggunakan kotlin.
