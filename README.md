@@ -15,7 +15,7 @@ HaiTeman adalah chatbot berbasis audio dan visualisasi data yang dikembangkan un
 - Klasifikasi emosi pengguna berdasarkan input teks.
 - Respons empatik berbasis LLM (Large Language Model).
 - Pesan terapi dalam bentuk suara menggunakan TTS (Text-to-Speech).
-- Antarmuka chatbot berbasis web (Streamlit).
+- Antarmuka chatbot berbasis aplikasi mobile menggunakan kotlin.
 
 ---
 
